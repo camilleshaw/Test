@@ -1,2 +1,2 @@
-TODO: TodoList.cpp TodoList.h
-	g++ -o TODO TodoList.cpp
+TODO: Main.cpp TodoList.h
+	g++ -o TODO Main.cpp
